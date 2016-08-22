@@ -1,0 +1,20 @@
+form {
+  width: 50em;
+  margin-top: 20em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#doneList {
+  float: right;
+}
+
+#rightSide {
+  float:right;
+  margin-right: 10%;
+}
+
+#toDoList {
+  margin-left: 10%;
+}
